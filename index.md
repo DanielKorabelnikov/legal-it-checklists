@@ -22,5 +22,5 @@ Mettre à disposition des contenus synthétiques, lisibles et immédiatement uti
 
 ## Contact
 
-- LinkedIn : [à compléter]
-- Site : [à compléter]
+- LinkedIn : https://www.linkedin.com/in/daniel-korabelnikov-924b7330/
+- Site : https://cloix-mendesgil.com/

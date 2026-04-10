@@ -28,6 +28,6 @@ L’objectif est de mettre à disposition des contenus courts, lisibles et direc
 
 ## Contact
 
-- LinkedIn : [à compléter]
-- Site : [à compléter]
+- LinkedIn : https://www.linkedin.com/in/daniel-korabelnikov-924b7330/
+- Site : https://cloix-mendesgil.com/
 
